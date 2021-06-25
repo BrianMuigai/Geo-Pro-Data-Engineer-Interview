@@ -1,0 +1,3 @@
+successful,id_undetermined,unsuccessful
+30000922,30000911,"{'id_number': '30000921', 'errors': {'fee_status': ['""KNOWN"" is not a valid choice.']}}"
+30000910,30000913,"{'id_number': '29000921', 'errors': {'fee_status': ['""KNOWN"" is not a valid choice.'], 'fee_receipt': {'0': {'registration_section': {'9': {'sectionNo': ['This field may not be null.']}}}}}}"
